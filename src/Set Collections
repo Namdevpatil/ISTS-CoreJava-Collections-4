@@ -1,0 +1,32 @@
+Set:
+ - it is a value based collections
+ - A collection that contains no duplicate elements.
+ - it will not maintains insertion order
+ - it is an interface, so we are unable to create instance/object. so that we needed implementation
+   classes.
+
+Set
+ - HashSet
+ - LinkedHashSet
+ - TreeSet
+ 
+ 
+HashSet:
+	- it is a value based collections
+ 	- A collection that contains no duplicate elements.
+ 	- it will not maintains insertion order
+ 	- it will support null values
+
+LinkedHashSet:
+	- it is a value based collections
+ 	- A collection that contains no duplicate elements.
+ 	- it will maintains insertion order
+ 	- it will support null values
+
+TreeSet:
+	- it is a value based collections
+ 	- A collection that contains no duplicate elements.
+ 	- it will maintains ascending order
+ 	- it will not support null values
+ 	
+ 	

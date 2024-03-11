@@ -1,0 +1,42 @@
+Map: it is key-value based collections
+===
+
+Features:
+========
+	- we can store the data in the form of 'key-value' fairs.
+	- Map is an interface, we are unable to create instance for the interface. so that we need 
+	  implementations classes.
+	- Map collection implementation classes are,
+				- HashMap
+				- LinkedHashMap
+				- TreeMap
+				- Hashtable
+
+HashMap:
+   - it is an implementation class of Map collection.
+   - used to store data in the form of 'key-value' fairs.
+   - Support only unique keys, but supports duplicate values.
+   - And also support one null key, and multiple null values.
+   - it will not maintain the insertion order.
+   
+LinkedHashMap:
+   - it is an implementation class of Map collection.
+   - used to store data in the form of 'key-value' fairs.
+   - Support only unique keys, but supports duplicate values.
+   - And also support one null key, and multiple null values.
+   - it will maintain the insertion order.   
+   
+TreeMap:
+   - it is an implementation class of Map collection.
+   - used to store data in the form of 'key-value' fairs.
+   - Support only unique keys, but supports duplicate values.
+   - And also not support null key, and multiple null values.
+   - it will maintain ascending order.
+   
+Hashtable:
+   - it is an implementation class of Map collection.
+   - used to store data in the form of 'key-value' fairs.
+   - Support only unique keys, but supports duplicate values.
+   - And also not support null keys and null values.
+   - it will not maintain the insertion order.
+    
